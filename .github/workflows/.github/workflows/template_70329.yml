@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-07-18 15:40">
+  <shop>
+    <name>itpartner</name>
+    <company>itpartner</company>
+    <categories>
+      <category id="1">Base 1</category>
+      <category id="12">Base 2</category>
+      <category id="4" parentId="3">Category 4</category>
+      <category id="5" parentId="1">Category 5</category>
+      <category id="8" parentId="7">Category 8</category>
+      <category id="6" parentId="12">Category 6</category>
+      <category id="7" parentId="12">Category 7</category>
+    </categories>
+    <offers>
+      <offer id="12346" type="vendor.model" bid="60">
+        <sku>662</sku>
+        <vendor>Brand</vendor>
+        <model>K220Y9</model>
+        <typePrefix>Сэндвичница</typePrefix>
+        <vendorCode>A1234567B</vendorCode>
+        <price>1099</price>
+        <categoryId>7</categoryId>
+        <picture>https://resources.cdn-kaspi.kz/img/m/p/h37/hf5/81272594268190.png?format=gallery-medium</picture>
+        <param name="Мощность">750 Вт</param>
+        <param name="Цвет">Черный</param>
+        <description>Сэндвичница 2 в 1: можно приготовить как сэндвичи, так и вафли.</description>
+        <manufacturer_warranty>true</manufacturer_warranty>
+        <weight>1.03</weight>
+        <dimensions>20.800/23.500/9.000</dimensions>
+        <count>23</count>
+      </offer>
+      <offer id="M54D555" type="vendor.model" bid="60">
+        <sku>685658</sku>
+        <typePrefix>Бутербродница</typePrefix>
+        <model>AS45678</model>
+        <vendor>Brand</vendor>
+        <price>2039</price>
+        <categoryId>7</categoryId>
+        <picture>https://resources.cdn-kaspi.kz/img/m/p/h0b/h47/81272594333726.png?format=gallery-medium</picture>
+        <param name="Мощность">150 Вт</param>
+        <param name="Цвет">Благородный серый</param>
+        <description>Бутербродница, которая поджаривает будерброды.</description>
+        <barcode>9876543260</barcode>
+        <weight>1.03</weight>
+        <dimensions>20.800/23.500/9.000</dimensions>
+        <count>23</count>
+      </offer>
+      <offer id="9012" bid="80">
+        <sku>655</sku>
+        <name>Мороженица Fresh-Trend 3816</name>
+        <vendor>Fresh-Trend</vendor>
+        <vendorCode>A1234567B</vendorCode>
+        <price>8990</price>
+        <categoryId>8</categoryId>
+        <picture>https://static.detmir.st/media_out/570/125/3125570/1500/0.jpg</picture>
+        <picture>https://static.detmir.st/media_out/570/125/3125570/1500/1.jpg</picture>
+        <video>https://www.youtube.com/watch?v=_k55A6DjLw8</video>
+        <description>Хотите полакомиться свежим домашним мороженым? Такую возможность подарит мороженица Fresh-Trend.</description>
+        <barcode>4601546021299</barcode>
+        <param name="Цвет">Розовый</param>
+        <param name="Размер">170x80</param>
+        <weight>1.03</weight>
+        <dimensions>20.800/23.500/9.000</dimensions>
+      </offer>
+      <offer id="94592" bid="80">
+        <sku>65845</sku>
+        <name>Мороженица Brand 3811</name>
+        <vendor>Brand</vendor>
+        <vendorCode>A1234567B</vendorCode>
+        <price>8990</price>
+        <categoryId>8</categoryId>
+        <picture>https://p-i-t.kz/uploads/store/product/73fcb5cbc80197e8f6ca95493fd8113b.jpg</picture>
+        <picture>https://p-i-t.kz/uploads/store/product/9b1af165ae84d9c88be4d4103dfbbdf6.jpg</picture>
+        <description>Хотите полакомиться</description>
+        <country_of_origin>Китай</country_of_origin>
+        <barcode>4601546021298</barcode>
+        <param name="Цвет">белый</param>
+        <param name="Размер">170x80</param>
+        <condition type="likenew">
+          <reason>Повреждена упаковка</reason>
+        </condition>
+        <weight>1.03</weight>
+        <dimensions>20.800/23.500/9.000</dimensions>
+      </offer>
+      <offer id="12346" type="vendor.model" bid="60">
+        <sku>55554</sku>
+        <typePrefix>Бутербродница</typePrefix>
+        <model>SM-H100W</model>
+        <vendor>Ardesto</vendor>
+        <price>2039</price>
+        <categoryId>7</categoryId>
+        <picture>https://www.technodom.kz/media/catalog/product/cache/1366e688ed42c99cd6439df4031862c6/8/a/8a75bfe02af72a03711165fe2ca229dbe268832d_232947_1.jpg</picture>
+        <param name="Мощность">150 Вт</param>
+        <param name="Цвет">Белый</param>
+        <description>Антипригарное покрытие обеспечивает легкую очисткуустройства к приготовлению.</description>
+        <barcode>9876543260</barcode>
+        <weight>1.03</weight>
+        <dimensions>20.800/23.500/9.000</dimensions>
+        <count>23</count>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
