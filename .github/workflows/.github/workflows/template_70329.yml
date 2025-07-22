@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-07-22 11:00">
+<yml_catalog date="2025-07-22 11:15">
   <shop>
     <name>BestSeller</name>
-    <company>Tne Best inc.</company>
+    <company>The Best inc.</company>
     <categories>
       <category id="1">Смартфоны</category>
       <category id="2" parentId="1">Apple</category>
@@ -15,15 +15,15 @@
         <vendor>Apple</vendor>
         <vendorCode>APL-IP15-BLK-256</vendorCode>
         <price>449990</price>
+        <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-black-select-2023?wid=940&amp;hei=1112&amp;fmt=png-alpha&amp;.v=1692923775028</picture>
         <param name="Объем встроенной памяти">256 ГБ</param>
         <param name="Цвет">Черный</param>
-        <param name="Диагональ экрана">6.1&quot;</param>
+        <param name="Диагональ экрана">6.1"</param>
         <param name="Операционная система">iOS 17</param>
         <param name="Поддержка 5G">Да</param>
         <param name="Количество SIM-карт">2 (nano + eSIM)</param>
-        <description>Apple iPhone 15 с дисплеем Super Retina XDR, мощным чипом A16 Bionic и двойной камерой. Идеальный выбор для тех, кто ценит производительность, стиль и экосистему Apple.</description>
+        <description>Apple iPhone 15 с дисплеем Super Retina XDR, мощным чипом A16 Bionic и двойной камерой.</description>
         <manufacturer_warranty>true</manufacturer_warranty>
         <barcode>0194253442014</barcode>
         <country_of_origin>Китай</country_of_origin>
