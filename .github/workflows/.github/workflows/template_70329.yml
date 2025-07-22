@@ -1,37 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-07-22 12:40">
-  <shop>
-    <name>BestSeller</name>
-    <company>The Best inc.</company>
-    <categories>
-      <category id="1">Смартфоны</category>
-      <category id="2" parentId="1">Apple</category>
-    </categories>
-    <offers>
-      <offer id="IPH15-001" type="vendor.model" bid="80">
-        <sku>12345</sku>
-        <typePrefix>Смартфон</typePrefix>
-        <model>iPhone 15</model>
-        <vendor>Apple</vendor>
-        <vendorCode>APL-IP15-BLK-256</vendorCode>
-        <price>449990</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://cdn.pixabay.com/photo/2016/11/29/04/12/iphone-1869190_1280.jpg</picture>
-        <param name="Объем встроенной памяти">256 ГБ</param>
-        <param name="Цвет">Черный</param>
-        <param name="Диагональ экрана">6.1"</param>
-        <param name="Операционная система">iOS 17</param>
-        <param name="Поддержка 5G">Да</param>
-        <param name="Количество SIM-карт">2 (nano + eSIM)</param>
-        <description>Apple iPhone 15 с дисплеем Super Retina XDR, мощным чипом A16 Bionic и двойной камерой.</description>
-        <manufacturer_warranty>true</manufacturer_warranty>
-        <barcode>0194253442014</barcode>
-        <country_of_origin>Китай</country_of_origin>
-        <weight>0.171</weight>
-        <dimensions>7.65/71.6/147.6</dimensions>
-        <count>15</count>
-      </offer>
-    </offers>
-  </shop>
-</yml_catalog>
+<Product>
+  <BestSeller>true</BestSeller>
+  <Manufacturer>The Best inc.</Manufacturer>
+  <Base1>Base 1</Base1>
+  <Base2>Base 2</Base2>
+  <Category>Category 4</Category>
+  <Category>Category 5</Category>
+  <Category>Category 8</Category>
+  <Category>Category 6</Category>
+  <Category>Category 7</Category>
+  <SKU>12345</SKU>
+  <Brand>K220Y9</Brand>
+  <Name>Сэндвичница</Name>
+  <Model>A1234567B</Model>
+  <Price>1099</Price>
+  <Quantity>7</Quantity>
+  <Picture>https://i.ibb.co/PvCbrfZn/12345.jpg</Picture>
+  <Video>https://www.youtube.com/watch?v=_k55A6DjLw8</Video>
+  <Power>750 Вт</Power>
+  <Color>Черный</Color>
+  <ShortDescription>Сэндвичница 2 в 1: можно приготовить как сэндвичи, так и вафли.</ShortDescription>
+  <Available>true</Available>
+  <VatRate>1.03</VatRate>
+  <Dimensions>20.800/23.500/9.000</Dimensions>
+  <Weight>23</Weight>
+</Product>
