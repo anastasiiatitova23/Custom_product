@@ -1,29 +1,37 @@
-<Product>
-  <BestSeller>true</BestSeller>
-  <Company>Tne Best inc.</Company>
-  <Base>Base 1</Base>
-  <Base2>Base 2</Base2>
-  <Category>4</Category>
-  <Category2>5</Category2>
-  <Category3>8</Category3>
-  <Category4>6</Category4>
-  <Category5>7</Category5>
-  <SKU>12345</SKU>
-  <Brand>Apple</Brand>
-  <Name>iPhone 15</Name>
-  <Model>A1234567B</Model>
-  <Price>89990</Price>
-  <Stock>10</Stock>
-  <Picture>https://i.ibb.co/PvCbrfZn/12345.jpg</Picture>
-  <Video>https://www.youtube.com/watch?v=_k55A6DjLw8</Video>
-  <Power>NA</Power>
-  <Color>Чёрный</Color>
-  <ShortDescription>iPhone 15 – мощный смартфон нового поколения от Apple.</ShortDescription>
-  <Description>
-    Новый iPhone 15 оснащён улучшенной камерой, процессором A16 Bionic и увеличенным временем работы. Поддержка MagSafe и водонепроницаемый корпус.
-  </Description>
-  <EAN>4601546021234</EAN>
-  <Weight>1.03</Weight>
-  <Dimensions>20.800/23.500/9.000</Dimensions>
-  <Country>Китай</Country>
-</Product>
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-07-22 12:40">
+  <shop>
+    <name>BestSeller</name>
+    <company>The Best inc.</company>
+    <categories>
+      <category id="1">Смартфоны</category>
+      <category id="2" parentId="1">Apple</category>
+    </categories>
+    <offers>
+      <offer id="IPH15-001" type="vendor.model" bid="80">
+        <sku>12345</sku>
+        <typePrefix>Смартфон</typePrefix>
+        <model>iPhone 15</model>
+        <vendor>Apple</vendor>
+        <vendorCode>APL-IP15-BLK-256</vendorCode>
+        <price>449990</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://cdn.pixabay.com/photo/2016/11/29/04/12/iphone-1869190_1280.jpg</picture>
+        <param name="Объем встроенной памяти">256 ГБ</param>
+        <param name="Цвет">Черный</param>
+        <param name="Диагональ экрана">6.1"</param>
+        <param name="Операционная система">iOS 17</param>
+        <param name="Поддержка 5G">Да</param>
+        <param name="Количество SIM-карт">2 (nano + eSIM)</param>
+        <description>Apple iPhone 15 с дисплеем Super Retina XDR, мощным чипом A16 Bionic и двойной камерой.</description>
+        <manufacturer_warranty>true</manufacturer_warranty>
+        <barcode>0194253442014</barcode>
+        <country_of_origin>Китай</country_of_origin>
+        <weight>0.171</weight>
+        <dimensions>7.65/71.6/147.6</dimensions>
+        <count>15</count>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
