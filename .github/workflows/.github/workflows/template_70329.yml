@@ -1,26 +1,29 @@
 <Product>
   <BestSeller>true</BestSeller>
-  <Manufacturer>The Best inc.</Manufacturer>
-  <Base1>Base 1</Base1>
+  <Company>Tne Best inc.</Company>
+  <Base>Base 1</Base>
   <Base2>Base 2</Base2>
-  <Category>Category 4</Category>
-  <Category>Category 5</Category>
-  <Category>Category 8</Category>
-  <Category>Category 6</Category>
-  <Category>Category 7</Category>
+  <Category>4</Category>
+  <Category2>5</Category2>
+  <Category3>8</Category3>
+  <Category4>6</Category4>
+  <Category5>7</Category5>
   <SKU>12345</SKU>
-  <Brand>K220Y9</Brand>
-  <Name>Сэндвичница</Name>
+  <Brand>Apple</Brand>
+  <Name>iPhone 15</Name>
   <Model>A1234567B</Model>
-  <Price>1099</Price>
-  <Quantity>7</Quantity>
+  <Price>89990</Price>
+  <Stock>10</Stock>
   <Picture>https://i.ibb.co/PvCbrfZn/12345.jpg</Picture>
   <Video>https://www.youtube.com/watch?v=_k55A6DjLw8</Video>
-  <Power>750 Вт</Power>
-  <Color>Черный</Color>
-  <ShortDescription>Сэндвичница 2 в 1: можно приготовить как сэндвичи, так и вафли.</ShortDescription>
-  <Available>true</Available>
-  <VatRate>1.03</VatRate>
+  <Power>NA</Power>
+  <Color>Чёрный</Color>
+  <ShortDescription>iPhone 15 – мощный смартфон нового поколения от Apple.</ShortDescription>
+  <Description>
+    Новый iPhone 15 оснащён улучшенной камерой, процессором A16 Bionic и увеличенным временем работы. Поддержка MagSafe и водонепроницаемый корпус.
+  </Description>
+  <EAN>4601546021234</EAN>
+  <Weight>1.03</Weight>
   <Dimensions>20.800/23.500/9.000</Dimensions>
-  <Weight>23</Weight>
+  <Country>Китай</Country>
 </Product>
