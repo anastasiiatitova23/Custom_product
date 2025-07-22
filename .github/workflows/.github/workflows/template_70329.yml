@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-07-22 12:40">
+<yml_catalog date="2025-07-22 12:10">
   <shop>
     <name>BestSeller</name>
     <company>The Best inc.</company>
@@ -17,7 +17,7 @@
         <price>449990</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://cdn.pixabay.com/photo/2016/11/29/04/12/iphone-1869190_1280.jpg</picture>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/4/4a/IPhone_14_Pro_Black.svg.png</picture>
         <param name="Объем встроенной памяти">256 ГБ</param>
         <param name="Цвет">Черный</param>
         <param name="Диагональ экрана">6.1"</param>
