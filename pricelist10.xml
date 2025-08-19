@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fm_catalog date="2025-08-19 12:26">
+	<shop>
+		<merchant-id>AmWHRMHW5notx0rhJ2</merchant-id>
+		<offers>
+			<offer sku="УТ-00303924">
+				<pickup-options>
+					<pickup-option id="PP1"/>
+				</pickup-options>
+				<name>"ГУД ЛАКК" 2.02.01.020.1 СИРИУС ШКАФ КОМБИНИРОВАННЫЙ "2 ДВЕРИ И 1 ЯЩИК БЕЛЫЙ RU"</name>
+				<vendor>ГУД ЛАКК</vendor>
+				<external_ids>
+					<kaspi>131326810</kaspi>
+				</external_ids>
+				<price>61200</price>
+			</offer>
+			<offer sku="УТ-00303925">
+				<pickup-options>
+					<pickup-option id="PP1"/>
+				</pickup-options>
+				<name>"ГУД ЛАКК" 2.02.01.042.1 СИРИУС ШКАФ КОМБИНИРОВАННЫЙ "4 ДВЕРИ И 1 ЯЩИК БЕЛЫЙ RU (С 2 ЗЕРКАЛАМИ)"</name>
+				<vendor>ГУД ЛАКК</vendor>
+				<external_ids>
+					<kaspi>131326609</kaspi>
+				</external_ids>
+				<price>147300</price>
+			</offer>
+			<offer sku="УТ-00303926">
+				<pickup-options>
+					<pickup-option id="PP1"/>
+				</pickup-options>
+				<name>"ГУД ЛАКК" 2.02.01.470.1 СИРИУС ШКАФ 2 ДВЕРИ И 1 ЯЩИК 78Х59Х220 БЕЛЫЙ RU</name>
+				<vendor>ГУД ЛАКК</vendor>
+				<external_ids>
+					<kaspi>131326338</kaspi>
+				</external_ids>
+				<price>93700</price>
+			</offer>
+			<offer sku="УТ-00303927">
+				<pickup-options>
+					<pickup-option id="PP1"/>
+				</pickup-options>
+				<name>"ГУД ЛАКК" 2.02.01.520.1 СИРИУС ШКАФ 4 ДВЕРИ И 1 ЯЩИК 156Х59Х220 БЕЛЫЙ RU (С 2 ЗЕРКАЛАМИ)</name>
+				<vendor>ГУД ЛАКК</vendor>
+				<external_ids>
+					<kaspi>131307274</kaspi>
+				</external_ids>
+				<price>211999</price>
+			</offer>
+			<offer sku="УТ-00303928">
+				<pickup-options>
+					<pickup-option id="PP1"/>
+				</pickup-options>
+				<name>"ГУД ЛАКК" 2.02.03.010.1 СИРИУС ТУМБА "БЕЛАЯ RU"</name>
+				<vendor>ГУД ЛАКК</vendor>
+				<external_ids>
+					<kaspi>131305087</kaspi>
+				</external_ids>
+				<price>13900</price>
+			</offer>
+			<offer sku="УТ-00303931">
+				<pickup-options>
+					<pickup-option id="PP1"/>
+				</pickup-options>
+				<name>"ГУД ЛАКК" 2.02.04.210.1 СИРИУС КРОВАТЬ ДВОЙНАЯ 180Х200 БЕЛАЯ RU</name>
+				<vendor>ГУД ЛАКК</vendor>
+				<external_ids>
+					<kaspi>131327528</kaspi>
+				</external_ids>
+				<price>76885</price>
+			</offer>
+			<offer sku="УТ-00303932">
+				<pickup-options>
+					<pickup-option id="PP1"/>
+				</pickup-options>
+				<name>"ГУД ЛАКК" 2.03.02.060.1 КАСТОР КОМОД 3 ЯЩИКА RU БЕЛЫЙ</name>
+				<vendor>ГУД ЛАКК</vendor>
+				<external_ids>
+					<kaspi>131310761</kaspi>
+				</external_ids>
+				<price>48000</price>
+			</offer>
+			<offer sku="УТ-00303933">
+				<pickup-options>
+					<pickup-option id="PP2"/>
+				</pickup-options>
+				<name>"ГУД ЛАКК" 2.03.02.070.1 КАСТОР КОМОД 5 ЯЩИКОВ RU БЕЛЫЙ</name>
+				<vendor>ГУД ЛАКК</vendor>
+				<external_ids>
+					<kaspi>131311584</kaspi>
+				</external_ids>
+				<price>50000</price>
+			</offer>
+			<offer sku="УТ-00303937">
+				<pickup-options>
+					<pickup-option id="PP03"/>
+				</pickup-options>
+				<name>"ГУД ЛАКК" 2.05.02.060.1 МАЛЬТА КОМОД 6 ЯЩИКОВ 160Х76 БЕЛЫЙ RU</name>
+				<vendor>ГУД ЛАКК</vendor>
+				<external_ids>
+					<kaspi>131311161</kaspi>
+				</external_ids>
+				<price>100000</price>
+			</offer>
+			<offer sku="УТ-00303939">
+				<pickup-options>
+					<pickup-option id="PP1"/>
+				</pickup-options>
+				<name>"ГУД ЛАКК" S00128 ЭНКЕЛЬ 82 ЖУРНАЛЬНЫЙ CТОЛ 82X50X45, БЕЛЫЙ</name>
+				<vendor>ГУД ЛАКК</vendor>
+				<external_ids>
+					<kaspi>131364501</kaspi>
+				</external_ids>
+				<price>17900</price>
+			</offer>
+</offer>
+</shop>
+</fm_catalog>
