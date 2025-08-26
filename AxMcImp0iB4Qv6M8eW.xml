@@ -3,7 +3,7 @@
 	<shop>
 		<merchant-id>AxMcImp0iB4Qv6M8eW</merchant-id>
 		<offers>
-			<offer sku="УТ-00303924">
+			<offer sku="УТ-00303923">
 				<pickup-options>
 					<pickup-option id="PP1"/>
 				</pickup-options>
@@ -12,7 +12,7 @@
 				<external_ids>
 					<kaspi>131326810</kaspi>
 				</external_ids>
-				<price>61200</price>
+				<price>670000</price>
 			</offer>
 			<offer sku="УТ-00303925">
 				<pickup-options>
