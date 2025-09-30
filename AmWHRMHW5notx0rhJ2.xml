@@ -12,7 +12,29 @@
 				<external_ids>
 					<kaspi>131326810</kaspi>
 				</external_ids>
-				<price>66666666666</price>
+				<price>666666</price>
+			</offer>
+			<offer sku="УТ-00303926">
+				<pickup-options>
+					<pickup-option id="PP1"/>
+				</pickup-options>
+				<name>"ГУД ЛАКК" 2.02.01.020.1 СИРИУС UPD ШКАФ КОМБИНИРОВАННЫЙ "2 ДВЕРИ И 1 ЯЩИК БЕЛЫЙ RU"</name>
+				<vendor>ГУД ЛАКК</vendor>
+				<external_ids>
+					<kaspi>131326810</kaspi>
+				</external_ids>
+				<price>666666</price>
+			</offer>
+			<offer sku="УТ-00303927">
+				<pickup-options>
+					<pickup-option id="PP1"/>
+				</pickup-options>
+				<name>"ГУД ЛАКК" 2.02.01.020.1 СИРИУС UPD ШКАФ КОМБИНИРОВАННЫЙ "2 ДВЕРИ И 1 ЯЩИК БЕЛЫЙ RU"</name>
+				<vendor>ГУД ЛАКК</vendor>
+				<external_ids>
+					<kaspi>131326810</kaspi>
+				</external_ids>
+				<price>666666</price>
 			</offer>
 			<offer sku="УТ-00303925">
 				<pickup-options>
@@ -21,13 +43,14 @@
 				<name>"ГУД ЛАКК" 2.02.01.042.1 СИРИУС ШКАФ КОМБИНИРОВАННЫЙ "4 ДВЕРИ И 1 ЯЩИК БЕЛЫЙ RU (С 2 ЗЕРКАЛАМИ)"</name>
 				<vendor>ГУД ЛАКК</vendor>
 				<external_ids>
-					<kaspi>16609</kaspi>
+					<kaspi>1660977</kaspi>
 				</external_ids>
-				<price>147300</price>
+				<price>1473070</price>
       </offer>
 		</offers>
 	</shop>
 </fm_catalog>
+
 
 
 
